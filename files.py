@@ -1,0 +1,148 @@
+def funA1():
+    return 'data_set/An32k5.txt',32
+def funA2():
+    return 'data_set/An33k5.txt',33
+def funA3():
+    return 'data_set/An33k6.txt',33
+def funA4():
+    return 'data_set/An34k5.txt',34
+def funA5():
+    return 'data_set/An36k5.txt',36
+def funA6():
+    return 'data_set/An37k5.txt',37
+def funA7():
+    return 'data_set/An37k6.txt',37
+def funA8():
+    return 'data_set/An38k5.txt',38
+def funA9():
+    return 'data_set/An39k5.txt',39
+def funA10():
+    return 'data_set/An39k6.txt',39
+def funA11():
+    return 'data_set/An44k7.txt',44
+def funA12():
+    return 'data_set/An45k6.txt',45
+def funA13():
+    return 'data_set/An45k7.txt',45
+def funA14():
+    return 'data_set/An46k7.txt',46
+def funA15():
+    return 'data_set/An48k7.txt',48
+def funA16():
+    return 'data_set/An53k7.txt',53
+def funA17():
+    return 'data_set/An54k7.txt',54
+def funA18():
+    return 'data_set/An55k9.txt',55
+def funA19():
+    return 'data_set/An60k9.txt',60
+def funA20():
+    return 'data_set/An61k9.txt',61
+def funA21():
+    return 'data_set/An62k8.txt',62
+def funA22():
+    return 'data_set/An63k9.txt',63
+def funA23():
+    return 'data_set/An63k10.txt',63
+def funA24():
+    return 'data_set/An64k9.txt',64
+def funA25():
+    return 'data_set/An65k9.txt',65
+def funA26():
+    return 'data_set/An69k9.txt',69
+def funA27():
+    return 'data_set/An80k10.txt',80
+def funB1():
+    return 'data_set/Bn31k5.txt',31
+def funB2():
+    return 'data_set/Bn34k5.txt',34
+def funB3():
+    return 'data_set/Bn35k5.txt',35
+def funB4():
+    return 'data_set/Bn38k6.txt',38
+def funB5():
+    return 'data_set/Bn39k5.txt',39
+def funB6():
+    return 'data_set/Bn41k6.txt',41
+def funB7():
+    return 'data_set/Bn43k6.txt',43
+def funB8():
+    return 'data_set/Bn44k7.txt',44
+def funB9():
+    return 'data_set/Bn45k5.txt',45
+def funB10():
+    return 'data_set/Bn45k6.txt',45
+def funB11():
+    return 'data_set/Bn50k7.txt',50
+def funB12():
+    return 'data_set/Bn50k8.txt',50
+def funB13():
+    return 'data_set/Bn51k7.txt',51
+def funB14():
+    return 'data_set/Bn52k7.txt',52
+def funB15():
+    return 'data_set/Bn56k7.txt',56
+def funB16():
+    return 'data_set/Bn57k7.txt',57
+def funB17():
+    return 'data_set/Bn57k9.txt',57
+def funB18():
+    return 'data_set/Bn63k10.txt',63
+def funB19():
+    return 'data_set/Bn64k9.txt',64
+def funB20():
+    return 'data_set/Bn66k9.txt',66
+def funB21():
+    return 'data_set/Bn67k10.txt',67
+def funB22():
+    return 'data_set/Bn68k9.txt',68
+def funB23():
+    return 'data_set/Bn78k10.txt',78
+def funP1():
+    return 'data_set/Pn16k8.txt',16
+def funP2():
+    return 'data_set/Pn19k2.txt',19
+def funP3():
+    return 'data_set/Pn20k2.txt',20
+def funP4():
+    return 'data_set/Pn21k2.txt',21
+def funP5():
+    return 'data_set/Pn22k2.txt',22
+def funP6():
+    return 'data_set/Pn22k8.txt',22
+def funP7():
+    return 'data_set/Pn23k8.txt',23
+def funP8():
+    return 'data_set/Pn40k5.txt',40
+def funP9():
+    return 'data_set/Pn45k5.txt',45
+def funP10():
+    return 'data_set/Pn50k7.txt',50
+def funP11():
+    return 'data_set/Pn50k8.txt',50
+def funP12():
+    return 'data_set/Pn50k10.txt',50
+def funP13():
+    return 'data_set/Pn51k10.txt',51
+def funP14():
+    return 'data_set/Pn55k7.txt',55
+def funP15():
+    return 'data_set/Pn55k8.txt',55
+def funP16():
+    return 'data_set/Pn55k10.txt',55
+def funP17():
+    return 'data_set/Pn55k15.txt',55
+def funP18():
+    return 'data_set/Pn60k10.txt',60
+def funP19():
+    return 'data_set/Pn60k15.txt',60
+def funP20():
+    return 'data_set/Pn65k10.txt',65
+def funP21():
+    return 'data_set/Pn70k10.txt',70
+def funP22():
+    return 'data_set/Pn76k4.txt',76
+def funP23():
+    return 'data_set/Pn76k5.txt',76
+def funP24():
+    return 'data_set/Pn101k4.txt',101
